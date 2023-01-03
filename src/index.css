@@ -1,0 +1,12 @@
+body{
+    background-Image:  linear-gradient(to right, #eb7a53, #f6ecc9,#98b7db,#f7d44c) !important;
+
+    /* background-color: black !important; */
+    color: white !important;
+}
+.bgNice{
+    background-color: #eb7a53 !important;
+}
+.txtNice{
+    color: #eb7a53 !important;
+}

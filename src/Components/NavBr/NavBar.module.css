@@ -1,0 +1,21 @@
+.side{
+    background-color: gray !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 18%;
+    opacity: 0;
+}
+.side ul ,.navOrdin ul{
+    list-style: none;
+}
+@media (max-width: 575px) { 
+    .side{
+        opacity:0 !important;
+    }
+    .navOrdin {
+        align-items: center !important;
+    }
+
+}

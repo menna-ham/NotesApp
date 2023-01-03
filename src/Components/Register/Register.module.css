@@ -1,0 +1,37 @@
+.cont{
+    height: 93vh;
+}
+.mainRow{
+    height: 75%;
+}
+.layer2{
+    background-color: white;
+    color:#212529 ;
+}
+.layer2 input, .layer2 label{
+    color: #212529 !important;
+}
+
+.Layer{
+   background-color:  #eb7a53 !important;
+    color: white !important;
+}
+.singIN{
+    background-color: #eb7a53 !important;
+}
+.signBtn{
+    text-transform: uppercase;
+    transition: .3s all;
+    -webkit-transition: .3s all;
+    -moz-transition: .3s all;
+    -ms-transition: .3s all;
+    -o-transition: .3s all;
+}
+.signBtn:hover{
+    background-Image:  linear-gradient(to right, #eb7a53, #f6ecc9,#98b7db,#f7d44c) !important;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
